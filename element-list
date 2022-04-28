@@ -1,8 +1,7 @@
 module:org.elasticsearch.logging
 org.elasticsearch.logging
-org.elasticsearch.logging.bootstrap
 org.elasticsearch.logging.core
 org.elasticsearch.logging.format
-org.elasticsearch.logging.locator
 org.elasticsearch.logging.message
 org.elasticsearch.logging.spi
+org.elasticsearch.logging.spi.locator
